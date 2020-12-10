@@ -7,6 +7,8 @@ import org.springframework.jms.annotation.EnableJms;
 public class SpringBootActivemq {
 
 	public static void main(String[] args) {
+		
+		
 
 	}
 
